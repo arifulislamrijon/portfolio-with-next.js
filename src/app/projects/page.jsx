@@ -128,8 +128,8 @@ export default function ProjectPage() {
           {/* Links */}
           <div className="mt-6 flex flex-col sm:flex-row sm:items-center sm:gap-6">
             <a
-              href="https://
-"
+              href="https://bistro-boss-restaurant-client-xi.vercel.app/"
+
               target="_blank"
               rel="noopener noreferrer"
               className="bg-blue-600 text-white px-4 py-2 rounded text-center hover:bg-blue-700 transition"
@@ -137,7 +137,7 @@ export default function ProjectPage() {
               Live Demo
             </a>
             <a
-              href="https://bistro-boss-restaurant-client-xi.vercel.app/"
+              href="https://github.com/arifulislamrijon/bistro-boss-client"
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-600 font-bold text-center mt-3 sm:mt-0 hover:underline"
