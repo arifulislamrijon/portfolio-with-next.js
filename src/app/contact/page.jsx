@@ -33,8 +33,8 @@ export default function Contact() {
       <h2 className="text-3xl font-bold text-center mb-8">Contact Me</h2>
 
       {/* Contact Info */}
-      <div className="grid md:grid-cols-2 gap-8 mb-7">
-        <div className="space-y-4 text-xl font-bold text-gray-700 p-10 mt-6 bg-blue-50 rounded-4xl">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-7">
+        <div className="space-y-4 text-xl font-bold sm:p-5 text-gray-700 p-10 mt-6 bg-blue-50 rounded-4xl">
           <div className="flex justify-center items-center gap-3 mt-8">
             <FaEnvelope className="text-blue-600" />
             <a href="mailto:arifulislamrijon34@email.com" className="hover:underline">arifulislamrijon34@email.com</a>
